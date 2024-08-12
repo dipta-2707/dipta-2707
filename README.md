@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Dipta</h1>
 
-- 🌱 I’m currently learning **Competitive Programming**
+- 🌱 I’m currently learning more and more about **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://dipta-2707.github.io/portfolio/](https://dipta-2707.github.io/portfolio/)
 
